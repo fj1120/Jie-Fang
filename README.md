@@ -32,4 +32,4 @@ Transformer Autoencoder and classifier for multi-class attack detection.
 
 ## 📫 Connect with Me
 - GitHub: https://github.com/fj1120
-- LinkedIn: [https://linkedin.com/in/你的LinkedIn](https://www.linkedin.com/in/jie-fang-228241313/)
+- LinkedIn: https://www.linkedin.com/in/jie-fang-228241313/
